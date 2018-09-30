@@ -95,8 +95,7 @@ form{
          
         </div>
        
-        <p>
-            Already have account?<a href="login.php">Sign in </a>  
+          <p>Already have account?<a href="login.php">Sign in </a></p> 
      </form>
      
 </div>
